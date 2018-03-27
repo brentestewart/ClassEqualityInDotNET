@@ -1,0 +1,6 @@
+Value Type Equality.linq
+Reference Type Equality.linq
+Comparing Apples to Oranges.linq
+Equals Method.linq
+Equals vs GetHash.linq
+Operator overloading.linq
